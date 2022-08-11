@@ -1,0 +1,10 @@
+#quote span:first-child {
+  color: brown;
+  font-size: 30px;
+  display: block;
+}
+#quote span:last-child {
+  color: palevioletred;
+  font-size: 15px;
+  display: block;
+}
